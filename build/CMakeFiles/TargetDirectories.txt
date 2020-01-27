@@ -1,0 +1,4 @@
+/home/ec2-user/hello-cpp-world/build/CMakeFiles/rebuild_cache.dir
+/home/ec2-user/hello-cpp-world/build/CMakeFiles/edit_cache.dir
+/home/ec2-user/hello-cpp-world/build/CMakeFiles/hello.dir
+/home/ec2-user/hello-cpp-world/build/CMakeFiles/aws-lambda-package-hello.dir
